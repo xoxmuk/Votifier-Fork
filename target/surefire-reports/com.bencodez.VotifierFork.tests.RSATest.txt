@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.bencodez.VotifierFork.tests.RSATest
 -------------------------------------------------------------------------------
-Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.430 s -- in com.bencodez.VotifierFork.tests.RSATest
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.774 s -- in com.bencodez.VotifierFork.tests.RSATest

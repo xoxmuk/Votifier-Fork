@@ -30,7 +30,6 @@ import com.bencodez.simpleapi.command.TabCompleteHandler;
 import com.bencodez.simpleapi.debug.DebugLevel;
 import com.bencodez.simpleapi.metrics.BStatsMetrics;
 import com.bencodez.simpleapi.scheduler.BukkitScheduler;
-import com.bencodez.simpleapi.updater.Updater;
 import ru.xoxmuk.votifierfork.commands.CommandLoader;
 import ru.xoxmuk.votifierfork.commands.CommandVotifierFork;
 import ru.xoxmuk.votifierfork.commands.VotifierForkTabCompleter;
@@ -55,7 +54,7 @@ public class VotifierFork extends JavaPlugin {
 
 	@Getter
 	@Setter
-	private Updater updater;
+
 
 	private VoteReceiver voteReceiver;
 

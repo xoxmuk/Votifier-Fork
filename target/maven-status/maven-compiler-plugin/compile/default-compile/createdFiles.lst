@@ -29,7 +29,6 @@ ru\xoxmuk\votifierfork\net\ThrottleConfig.class
 ru\xoxmuk\votifierfork\bungee\BStatsMetricsBungee$SingleLineChart.class
 ru\xoxmuk\votifierfork\net\VoteAuthenticationException.class
 ru\xoxmuk\votifierfork\VotifierFork.class
-ru\xoxmuk\votifierfork\CheckUpdate$1.class
 ru\xoxmuk\votifierfork\bungee\VotifierForkBungee.class
 ru\xoxmuk\votifierfork\net\VoteReceiver$3$1.class
 ru\xoxmuk\votifierfork\velocity\VotifierForkVelocityCommand.class
