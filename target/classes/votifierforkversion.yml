@@ -1,0 +1,4 @@
+time: '${timestamp}'
+profile: 'prod'
+version: '1.0.0-SNAPSHOT'
+buildnumber: 'NOTSET'

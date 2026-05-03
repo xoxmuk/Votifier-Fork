@@ -1,0 +1,4 @@
+name: VotifierFork
+version: 1.0.0-SNAPSHOT
+main: ru.xoxmuk.votifierfork.VotifierForkBungee
+author: xoxmuk

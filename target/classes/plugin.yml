@@ -1,0 +1,11 @@
+name: VotifierFork
+main: ru.xoxmuk.votifierfork.VotifierFork
+version: "1.0.0-SNAPSHOT"
+description: A plugin that gets notified when votes are made for the server on toplists.
+author: xoxmuk
+api-version: "26.1.2"
+softdepend: [SuperVanish, PremiumVanish]
+folia-supported: true
+commands:
+  VotifierFork:
+    description: main command
